@@ -4,7 +4,7 @@ Created on Sun Dec 16 13:27:56 2018
 
 @author: Jacek
 """
-
+import matplotlib.pyplot as plt
 
 def system_conversion(number, system):
     if number < 0:
